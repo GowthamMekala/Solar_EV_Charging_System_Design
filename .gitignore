@@ -1,0 +1,12 @@
+# AutoCAD lock/backup files
+*.dwl
+*.dwl2
+*.bak
+*.sv$
+
+# Office temp files
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
